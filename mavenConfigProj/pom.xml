@@ -45,7 +45,7 @@
   	</profile>
   	
   	<profile>
-  		<id>SmT</id>
+  		<id>SMT</id>
   		<build>
     <plugins>
         <plugin>
@@ -55,7 +55,7 @@
             <configuration>
             	<suiteXmlFiles>
             			<suiteXmlFile>
-            				regionalRegression.xml
+            				smoke.xml
             			</suiteXmlFile>
             	</suiteXmlFiles>
             </configuration>
